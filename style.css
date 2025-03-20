@@ -76,9 +76,14 @@
   margin-bottom: 10px;
   font-family: extraBold;
 }
+.main-text:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
 
 .info {
   margin-bottom: 18px;
+  color: ;
 }
 
 .author-block {
