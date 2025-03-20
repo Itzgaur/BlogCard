@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](c:\Users\harsh\OneDrive\Pictures\Screenshots\blogCard.png)
+![](blogCard.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Itzgaur/BlogCard)
-- Live Site URL: [Add live site URL here](https://itzgaur.github.io/BlogCard/)
+- Solution URL: [github](https://github.com/Itzgaur/BlogCard)
+- Live Site URL: [live](https://itzgaur.github.io/BlogCard/)
 
 ## My process
 
