@@ -46,5 +46,5 @@ In this chanllenge I learned how the width, max-width, flex-box works and now I 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Itzgaur)
-- Twitter - [@yourusername](https://x.com/goodbrattt)
+- Frontend Mentor - [@Itzgaur](https://www.frontendmentor.io/profile/Itzgaur)
+- Twitter - [@goodbrattt](https://x.com/goodbrattt)
